@@ -1,0 +1,130 @@
+.group_body{
+    width: 1162px;
+    height: 746px;
+    margin:0 auto;
+}
+.header{
+    width: 513px;
+    height: 101px;
+    text-align: center;
+    margin:0 auto;
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 104.5%;
+}
+.line{
+    border-bottom: 1px solid black;
+    width: 87px;
+    margin:0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+h1{
+    height: 35px;
+    margin:0;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-size: 35px;
+    line-height: 100%;
+}
+.adress{
+    float: left;
+    margin-right: 12px; 
+    width: 124px;
+    height: 17px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 104.5%;
+}
+.link{
+    width: 513px;
+    height: 21px;
+}
+.hashgorod{
+    width: 368px;
+    height: 21px;
+    float: left;
+}
+.hs1{
+    margin-right: 12px;
+    float: left;
+}
+.hs2{
+    margin-right: 12px;
+    float: left;
+}
+.hs3{
+    margin: 0; 
+}
+.empty_{
+    float: left;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 104.5%;
+    width: 7px;
+    height: 21px;
+    margin-right: 12px;
+}
+
+.images{
+    margin: 0px;
+    width: 1162px;
+    height: 646px;
+}
+.img1{
+    width: 283px;
+    height: 284px;
+    float: left;
+    margin: 67px 10px 10px 0px;
+}
+.img2{
+    width: 283px;
+    height: 284px;
+    float: left;
+    margin: 67px 10px 10px 0px;
+}
+.img3{
+    width: 283px;
+    height: 284px;
+    float: left;
+    margin: 67px 10px 10px 0px;
+}
+.img4{
+    width: 283px;
+    height: 284px;
+    float: left;
+    margin: 67px 0px 10px 0px;
+}
+.img5{
+    width: 283px;
+    height: 284px;
+    float: left;
+    margin-right: 10px;
+
+}
+.img6{
+    width: 283px;
+    height: 284px;
+    float: left;
+    margin-right: 10px;
+}
+.img7{
+    width: 283px;
+    height: 284px;
+    float: left;
+    margin-right: 10px;
+}
+.img8{
+    width: 283px;
+    height: 284px;
+    float: left;
+    margin: 0px;
+}
